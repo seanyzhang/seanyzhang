@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=seanyzhang.seanyzhang&left_color=mediumpurple&right_color=lightsteelblue"  />
-</div>
-
-###
-
 <h1 align="left">Hi There!👋</h1>
 
 ###
@@ -19,6 +13,12 @@
 ###
 
 <p align="left">I'm Sean from New York City! <br><br>- 🔭 I’m currently a student at Boston University<br>- 📚 I'm currently working on my project: rfol.io- a Personal Finance Management application<br>- ⚡ In my free time I invest, work out, play volleyball and badminton, and debug my own code : (</p>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=seanyzhang.seanyzhang&left_color=mediumpurple&right_color=lightsteelblue"  />
+</div>
 
 ###
 
@@ -67,7 +67,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=seanyzhang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seanyzhang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seanyzhang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
